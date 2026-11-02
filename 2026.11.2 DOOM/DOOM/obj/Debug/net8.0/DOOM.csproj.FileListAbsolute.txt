@@ -1,0 +1,14 @@
+C:\Users\hallgato\source\repos\DOOM\DOOM\bin\Debug\net8.0\DOOM.exe
+C:\Users\hallgato\source\repos\DOOM\DOOM\bin\Debug\net8.0\DOOM.deps.json
+C:\Users\hallgato\source\repos\DOOM\DOOM\bin\Debug\net8.0\DOOM.runtimeconfig.json
+C:\Users\hallgato\source\repos\DOOM\DOOM\bin\Debug\net8.0\DOOM.dll
+C:\Users\hallgato\source\repos\DOOM\DOOM\bin\Debug\net8.0\DOOM.pdb
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\DOOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\DOOM.AssemblyInfoInputs.cache
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\DOOM.AssemblyInfo.cs
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\DOOM.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\DOOM.dll
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\refint\DOOM.dll
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\DOOM.pdb
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\DOOM.genruntimeconfig.cache
+C:\Users\hallgato\source\repos\DOOM\DOOM\obj\Debug\net8.0\ref\DOOM.dll
